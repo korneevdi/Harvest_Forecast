@@ -2,13 +2,15 @@
 
 A strawberry grower is having difficulty forecasting their weekly production quantities. An engineering team has provided me with a dataset, and my mission is to analyze this data to create value for the farmers. This includes offering a predictive model or strategy for more accurate harvest forecasting.
 Initially, we have data from images taken by cameras in greenhouses, data from sensors, as well as harvest data. The data from the images represents the parameters of fruits or flowers, which are updated daily. Data from the sensors is updated every hour and describes external conditions, such as air temperature during the day, carbon dioxide content, etc. The third input file contains the results of a harvest that did not occur every day.
-Data from the images helps us understand when the phases of fruit ripening change. I tried to evaluate the influence of each factor on a specific phase. The research includes the following phases:
-•	Flower: This is the initial phase when the strawberry plant develops flowers.
-•	Fruitset: In this phase, the flowers begin to form fruits.
-•	Smallgreen: The fruits begin to grow and develop, but they remain green and small.
-•	Turning: The berries begin to change color from green to red, indicating the beginning of the ripening process.
-•	White (maturity): Berries reach ripeness, usually becoming brighter in color and becoming juicier and sweeter.
-•	Red (full ripeness): This is the phase when the berries are fully ripe and ready to be picked.
+Data from the images helps us understand when the phases of fruit ripening change. I evaluated the influence of each factor on a specific phase. The research includes the following phases:
+
+ - *Flower*: This is the initial phase when the strawberry plant develops flowers.
+ - *Fruitset*: In this phase, the flowers begin to form fruits.
+ - *Smallgreen*: The fruits begin to grow and develop, but they remain green and small.
+ - *Turning*: The berries begin to change color from green to red, indicating the beginning of the ripening process.
+ - *White (maturity)*: Berries reach ripeness, usually becoming brighter in color and becoming juicier and sweeter.
+ - *Red (full ripeness)*: This is the phase when the berries are fully ripe and ready to be picked.
+
 For the final results, we need information from the file containing the harvest results. The target variable of early phases is the number of berries multiplied by their size. The target variable of the last phase is the mass of berries, since I need to predict the mass of the harvest weight.
 The sensor data contains some gaps that can be eliminated using certain methods, for example, from the Pandas library. To develop the prediction model, I used the average daily temperature, maximum and minimum daily temperature. This part of the work can be further improved, since we can take into account how long the temperature remained high during the day and low at night. However, this would take a significant amount of time and effort and since I had limited time, I decided to use simpler features that allowed me to build high-quality predictive models.
 For more convenient work with the data I grouped some of them by day.
