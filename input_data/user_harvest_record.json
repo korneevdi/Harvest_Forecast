@@ -1,0 +1,256 @@
+{
+    "data": {
+        "id": "554768d1-bc7b-417b-9b97-dac20ea7aeeb",
+        "description": null,
+        "entries": [
+            {
+                "id": "a14ad802-7608-4ebf-aba0-66c082b73291",
+                "type": "weight",
+                "value": 1779,
+                "fruit_category": "class_1",
+                "taken_at": 1696809600
+            },
+            {
+                "id": "38b6fa18-e927-4d60-bab5-0b1169544100",
+                "type": "weight",
+                "value": 604.8,
+                "fruit_category": "class_1",
+                "taken_at": 1695254400
+            },
+            {
+                "id": "3c2359a8-42a7-43da-84c2-bcae30d115e6",
+                "type": "weight",
+                "value": 446.4,
+                "fruit_category": "class_1",
+                "taken_at": 1696982400
+            },
+            {
+                "id": "d8bb88b8-a1ea-41b9-85c8-c57fb1f435bb",
+                "type": "weight",
+                "value": 579.2,
+                "fruit_category": "class_1",
+                "taken_at": 1697500800
+            },
+            {
+                "id": "ec965921-d065-47a2-9e1e-cb4b2a69fc50",
+                "type": "weight",
+                "value": 134,
+                "fruit_category": "class_1",
+                "taken_at": 1695427200
+            },
+            {
+                "id": "ed1bafdb-a332-4247-bbef-30570c965909",
+                "type": "weight",
+                "value": 1774,
+                "fruit_category": "class_1",
+                "taken_at": 1695600000
+            },
+            {
+                "id": "ba4f13e3-a805-4af0-8157-1ae3ad18e7af",
+                "type": "weight",
+                "value": 492.8,
+                "fruit_category": "class_1",
+                "taken_at": 1697414400
+            },
+            {
+                "id": "f9c9198d-5277-4811-b6ad-3ea4d520a20d",
+                "type": "weight",
+                "value": 298.2,
+                "fruit_category": "class_1",
+                "taken_at": 1695686400
+            },
+            {
+                "id": "38f9a325-eb77-45ae-89d5-421a0f578a78",
+                "type": "weight",
+                "value": 992,
+                "fruit_category": "class_1",
+                "taken_at": 1696464000
+            },
+            {
+                "id": "0b9f9644-2925-453b-8bc2-6cbf2ad16499",
+                "type": "weight",
+                "value": 1108,
+                "fruit_category": "class_1",
+                "taken_at": 1697673600
+            },
+            {
+                "id": "c9872037-7f3d-4965-9a34-263b101398ab",
+                "type": "weight",
+                "value": 387.2,
+                "fruit_category": "class_1",
+                "taken_at": 1698019200
+            },
+            {
+                "id": "fd0822f9-849b-41ae-b342-a1e69aff1a86",
+                "type": "weight",
+                "value": 1972,
+                "fruit_category": "class_1",
+                "taken_at": 1696032000
+            },
+            {
+                "id": "4f590c13-2113-42a1-a735-295059eaafd1",
+                "type": "weight",
+                "value": 566.8,
+                "fruit_category": "class_1",
+                "taken_at": 1698278400
+            },
+            {
+                "id": "fd2d2616-5c5f-4f1e-aa31-bcee8c304983",
+                "type": "weight",
+                "value": 598,
+                "fruit_category": "class_1",
+                "taken_at": 1698451200
+            },
+            {
+                "id": "2cca424d-1f16-4f9c-8903-ad5748931655",
+                "type": "weight",
+                "value": 1254.2,
+                "fruit_category": "class_1",
+                "taken_at": 1697068800
+            },
+            {
+                "id": "5d7a6c13-6b16-41ef-991e-de2ac5fda9d3",
+                "type": "weight",
+                "value": 1040.6,
+                "fruit_category": "class_1",
+                "taken_at": 1695859200
+            },
+            {
+                "id": "d3d25898-d9c5-4634-a990-536ae15afaf9",
+                "type": "weight",
+                "value": 123.2,
+                "fruit_category": "class_1",
+                "taken_at": 1697241600
+            },
+            {
+                "id": "7eb92f54-e716-42c7-8301-9a2a47324adb",
+                "type": "weight",
+                "value": 579.2,
+                "fruit_category": "class_1",
+                "taken_at": 1697587200
+            },
+            {
+                "id": "bcb279ad-102a-42a9-88c0-abedd307e545",
+                "type": "weight",
+                "value": 326.4,
+                "fruit_category": "class_1",
+                "taken_at": 1697760000
+            },
+            {
+                "id": "62fa94ce-6eb6-414e-87de-b93204a018e8",
+                "type": "weight",
+                "value": 576,
+                "fruit_category": "class_1",
+                "taken_at": 1697846400
+            },
+            {
+                "id": "2fcb9621-5be6-4da1-b15c-a51a4c6881cf",
+                "type": "weight",
+                "value": 1937,
+                "fruit_category": "class_1",
+                "taken_at": 1696204800
+            },
+            {
+                "id": "7586ac78-7635-4c03-8a03-94e704fb3ba5",
+                "type": "weight",
+                "value": 1114,
+                "fruit_category": "class_1",
+                "taken_at": 1696291200
+            },
+            {
+                "id": "e2a2015c-04b4-4b88-9e33-738fe878547d",
+                "type": "weight",
+                "value": 1206,
+                "fruit_category": "class_1",
+                "taken_at": 1696377600
+            },
+            {
+                "id": "1c650560-2b7c-44e9-82d0-76922c20d26f",
+                "type": "weight",
+                "value": 1068,
+                "fruit_category": "class_1",
+                "taken_at": 1696636800
+            },
+            {
+                "id": "1c4c3ef7-ec9a-444a-b061-56d8ff3838ac",
+                "type": "weight",
+                "value": 745.6,
+                "fruit_category": "class_1",
+                "taken_at": 1697155200
+            },
+            {
+                "id": "28fce480-db3e-44cf-a2b9-0edc4bf7fe18",
+                "type": "weight",
+                "value": 145.6,
+                "fruit_category": "class_1",
+                "taken_at": 1695081600
+            },
+            {
+                "id": "3fb4acee-13ed-48dc-b159-627cb10b2533",
+                "type": "weight",
+                "value": 104,
+                "fruit_category": "class_1",
+                "taken_at": 1695340800
+            },
+            {
+                "id": "c3af16d6-6ff2-4d51-824b-b2cc5e8ca95a",
+                "type": "weight",
+                "value": 595.8,
+                "fruit_category": "class_1",
+                "taken_at": 1695945600
+            },
+            {
+                "id": "1ee0280f-60f6-4170-8217-f09455c0ae13",
+                "type": "weight",
+                "value": 873.6,
+                "fruit_category": "class_1",
+                "taken_at": 1698624000
+            },
+            {
+                "id": "d161d482-a981-4fa6-adbe-bc9dbe9629c9",
+                "type": "weight",
+                "value": 535.6,
+                "fruit_category": "class_1",
+                "taken_at": 1698796800
+            },
+            {
+                "id": "6175bae7-2e24-4cfc-a398-b8c5e5e238de",
+                "type": "weight",
+                "value": 680.8,
+                "fruit_category": "class_1",
+                "taken_at": 1698883200
+            },
+            {
+                "id": "7a2ab114-fef3-4958-a142-e29284576d5f",
+                "type": "weight",
+                "value": 161.2,
+                "fruit_category": "class_1",
+                "taken_at": 1699056000
+            },
+            {
+                "id": "90cb4bd7-cef9-414e-a00b-dd752b23e1b2",
+                "type": "weight",
+                "value": 176.8,
+                "fruit_category": "class_1",
+                "taken_at": 1699228800
+            },
+            {
+                "id": "2c91be5d-7db0-4164-85e8-4e4a8ef790af",
+                "type": "weight",
+                "value": 587.6,
+                "fruit_category": "class_1",
+                "taken_at": 1699488000
+            },
+            {
+                "id": "c38b49d6-6996-46a6-ad80-47af35862582",
+                "type": "weight",
+                "value": 124.8,
+                "fruit_category": "class_1",
+                "taken_at": 1699833600
+            }
+        ],
+        "in_progress": true,
+        "start_date": 1692110520,
+        "end_date": null      
+    }
+}
