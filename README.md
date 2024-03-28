@@ -25,3 +25,6 @@ The graphs in the **Modeling.ipynb** file show the predictions of all three mode
 The solution contains three Python scripts, as well as two Jupyter notebooks, which use the above-mentioned Python scripts. The scripts were placed in separate files for better code readability.
 Two of the Python scripts, **datapreprocessing.py** and **utils.py**, are used to prepare the data for work so that new data that will arrive in the future can also undergo this processing, which we use to test and find an approach. Another Python script **train_model.py**, is used to build predictive models. 
 The **requirements.txt** file contains all the necessary libraries to run the files for this solution. To install them all at once, just run the *pip install -r requirements.txt* command on the command line.
+
+## Frameworks & Tool used in the project
+Python, Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn, Jupyter, XGboost
